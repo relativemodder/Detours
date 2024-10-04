@@ -7,7 +7,7 @@ env:
   # Compile in parallel where possible.
   CL: /MP
 
-# Triggers the workflow on push or pull request events for the master branch.
+# Triggers the workflow on push or pull request events for the main branch.
 on:
   push:
     tags:
